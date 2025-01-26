@@ -6,7 +6,7 @@ fn main() {
         println!("Calculator");
         println!("Main Menu");
         println!("1. Calculate factorial");
-        println!("2. Calculate squared root");
+        println!("2. Calculate square root");
         println!("3. Calculate cubic root");
         println!("4. Calculate log10");
         println!("5. Exit");

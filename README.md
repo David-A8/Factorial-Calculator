@@ -9,7 +9,7 @@ The purpose of the calculator is to help users to solve mathematical operations 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 The following link is a demonstration of how the software works and an explanation of how to code accomplish what it should do.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/S_0qJsgCOPM)
 
 # Development Environment
 
